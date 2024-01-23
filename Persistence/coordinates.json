@@ -1,0 +1,30 @@
+{
+    "Bogota": {
+        "latitude": 4.710989,
+        "longitude": -74.072090
+    },
+    "Medellin": {
+        "latitude": 6.244203,
+        "longitude": -75.581215
+    },
+    "Lima": {
+        "latitude": -12.046373,
+        "longitude": -77.042755
+    },
+    "Buenos Aires": {
+        "latitude": -34.603683,
+        "longitude": -58.381557
+    },
+    "Sao Paulo": {
+        "latitude": -23.533773,
+        "longitude": -46.625290
+    },
+    "Rio de Janeiro": {
+        "latitude": -22.908333,
+        "longitude": -43.196388
+    },
+    "Mexico City": {
+        "latitude":  19.432608,
+        "longitude": -99.133209
+    }
+}
